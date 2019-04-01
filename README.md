@@ -1,2 +1,1 @@
-# myresume
-my live resume
+# resume
